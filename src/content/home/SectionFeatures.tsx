@@ -27,15 +27,15 @@ const SectionFeatures: React.FC = () => (
           <ul>
             <li>
               <BallotTwoToneIcon />
-              Pipeline de Negócios para melhor visualização do Gestor:
+              Pipeline de Negócios para melhor visualização do Gestor
             </li>
             <li>
               <BuildTwoToneIcon />
-              Integrações com sistemas de ligações e captação de Leads:
+              Integrações com sistemas de ligações e captação de Leads
             </li>
             <li>
               <LoyaltyTwoToneIcon />
-              Venda B2B ou B2C prelo Rampp:
+              Venda B2B ou B2C prelo Rampp
             </li>
           </ul>
         </div>
@@ -45,15 +45,15 @@ const SectionFeatures: React.FC = () => (
           <ul>
             <li>
               <BallotTwoToneIcon />
-              Pipeline de Negócios para melhor visualização do Gestor:
+              Pipeline de Negócios para melhor visualização do Gestor
             </li>
             <li>
               <BuildTwoToneIcon />
-              Integrações com sistemas de ligações e captação de Leads:
+              Integrações com sistemas de ligações e captação de Leads
             </li>
             <li>
               <LoyaltyTwoToneIcon />
-              Venda B2B ou B2C prelo Rampp:
+              Venda B2B ou B2C prelo Rampp
             </li>
           </ul>
         </div>

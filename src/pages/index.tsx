@@ -1,3 +1,4 @@
+import Pricing from '@/content/home/Pricing';
 import SectionFeatures from '@/content/home/SectionFeatures';
 import Image from 'next/image';
 import Link from 'next/link';
@@ -23,7 +24,12 @@ export default function Home() {
           />
         </Row>
       </Container>
+
+      {/* SECTION CARDS FEATURES */}
       <SectionFeatures />
+
+      {/* PRICING CARDS FEATURES */}
+      <Pricing />
     </>
   );
 }

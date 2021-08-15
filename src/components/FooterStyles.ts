@@ -4,7 +4,6 @@ export const Container = styled.div`
   width: auto;
   min-height: 150px;
   background-color: #0c084b;
-  margin-top: 50px;
 `;
 export const Row = styled.div`
   padding: 30px 0px;
